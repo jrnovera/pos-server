@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "orange",
+      "price": "10",
+      "image": "https://safeselect.ph/cdn/shop/products/orangelargerevised_1600x.jpg?v=1641873417"
+    },
+    {
+      "id": 12243,
+      "name": "Apple",
+      "price": "10",
+      "image": "https://www.collinsdictionary.com/images/full/apple_158989157.jpg"
+    },
+    {
+      "id": 12643,
+      "name": "Milk",
+      "price": "200",
+      "image": "https://www.pacificbay.com.ph/cdn/shop/products/skimmed-milk-475669_600x.jpg?v=1626331782"
+    },
+    {
+      "id": 1234,
+      "name": "Soda",
+      "price": "5",
+      "image": "https://allamerican.com.ph/cdn/shop/products/coke1.png?v=1658452751"
+    },
+    {
+      "id": 1235,
+      "name": "pineapple",
+      "price": "20",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjD-9pcX2FVMxnOLFKCw6Rh0-ZEV0e8s4Hx_lnOTlhsvQTLd63"
+    },
+    {
+      "id": 1236,
+      "name": "shampoo",
+      "price": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46Q-wimepx7e7D3RBbj7VC2NUmUx3JHAjw_brcbFTm1uT33Fq_M01wiLIWF-V7NMYAM4&usqp=CAU"
+    }
+  ]
+}
